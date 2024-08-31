@@ -1,0 +1,11 @@
+class;position;model;shader;texture;collider;collider_type
+WhiteCube;Vec3(0.0952633, -9.62963, 23.7711);'cube';'lit_with_shadows_shader';'white_cube';'box';'None'
+WhiteCube;Vec3(-0.865067, -9.74537, 23.8648);'cube';'lit_with_shadows_shader';'white_cube';'box';'None'
+WhiteCube;Vec3(1.03218, -9.46759, 23.4747);'cube';'lit_with_shadows_shader';'white_cube';'box';'None'
+WhiteCube;Vec3(2.14145, -9.60648, 23.9958);'cube';'lit_with_shadows_shader';'white_cube';'box';'None'
+WhiteCube;Vec3(3.78313, -9.51389, 21.79);'cube';'lit_with_shadows_shader';'vertical_gradient';'box';'None'
+WhiteCube;Vec3(0.213482, -9.51389, 21.9444);'cube';'lit_with_shadows_shader';'white_cube';'box';'None'
+TriplanarCube;Vec3(1.11755, -9.51389, 22.2222);'cube';'triplanar_shader';'white_cube';'box';'None'
+Pyramid;Vec3(0.625824, -9.72222, 18.2601);;'lit_with_shadows_shader';'brick';;'None'
+WhiteCube;Vec3(-0.804086, -9.60648, 22.5874);'cube';'lit_with_shadows_shader';'white_cube';'box';'None'
+WhiteCube;Vec3(2.13439, -9.9537, 23.1962);'cube';'lit_with_shadows_shader';'white_cube';'box';'None'
